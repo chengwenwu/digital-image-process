@@ -1,2 +1,2 @@
 
-[跳转到另一个md文件](https://chengwenwu.github.io/digital-image-process/docs/test.md)
+[跳转到另一个md文件](https://chengwenwu.github.io/digital-image-process/test.md)
